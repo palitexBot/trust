@@ -1,6 +1,6 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	PLAY IT HERE: [http://ncase.me/trust/](http://ncase.me/trust/)
+[Jogue](https://palitexbot.github.io/trust/)
 
 *The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
 
